@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://github.com/wakabaseisei/cv">
-    <p><font size="6">業務経歴</font></p>
+    <p><big>業務経歴はこちら</big></p>
   </a>
 </div>
