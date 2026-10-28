@@ -52,22 +52,22 @@ Databricks, Apache Spark
 
 ### 医療コンテンツの配信プラットフォームの開発・運用 (2026年2月 - 2026年10月)
 - 役割: DRE (Data Reliability Engineer) / データ基盤
-- 実績: Databricks・PySparkを用いたデータパイプラインの構築・運用
+- 主な取り組み: Databricks・PySparkを用いたデータパイプラインの構築・運用
 
 ### 配送プラットフォームのインフラ設計構築 (2025年10月 - 2026年1月)
 - 役割: クラウド・DevOps
-- 実績:
+- 主な取り組み:
   - Google Cloudを使用したインフラ設計・構築
   - GitHub Actions + Workload Identity連携によるセキュアなCI/CDパイプラインの構築
   - Conftest (OPA) / Trivy を活用したPolicy as Codeによるインフラの品質・セキュリティ担保
 
 ### 暗号資産取引サービスの開発 (2024年9月 - 2025年9月)
 - 役割: バックエンド
-- 実績:Go, gRPC, Kubernetes (GKE), Cloud Spannerを用いたマイクロサービスの新規機能開発
+- 主な取り組み:Go, gRPC, Kubernetes (GKE), Cloud Spannerを用いたマイクロサービスの新規機能開発
 
 ### 大規模toB向けECサービスのモダナイゼーション (2023年10月 - 2024年8月)
 - 役割: バックエンド
-- 実績: 基幹システムの一部ドメインのマイクロサービス化を推進（Go, Connect, AWS EKS）
+- 主な取り組み: 基幹システムの一部ドメインのマイクロサービス化を推進（Go, Connect, AWS EKS）
 
 ## 個人開発
 AWS上にマイクロサービスを構築。[ms-infra](https://github.com/wakabaseisei/ms-infra) / [ms-tech-docs](https://github.com/wakabaseisei/ms-tech-docs)
