@@ -36,13 +36,13 @@ GitHub Actions, ArgoCD, GitLab CI, Jenkins
 Databricks, Apache Spark
 
 ### その他
-- **IaC:** Terraform
-- **監視 / オブザーバビリティ:** Datadog, OpenTelemetry
-- **セキュリティ / 品質管理:** OPA (Conftest), Trivy, SOPS, OIDC/JWT
-- **ミドルウェア / データストア:** Apache Kafka, MySQL, Redis
-- **フレームワーク / ライブラリ:** React, React Native, Echo, FastAPI, ASP.NET Core
-- **テスト / 負荷試験:** Playwright, Jest, JMeter, NUnit
-- **その他環境:** Unity
+- IaC: Terraform
+- 監視 / オブザーバビリティ: Datadog, OpenTelemetry
+- セキュリティ / 品質管理: OPA (Conftest), Trivy, SOPS, OIDC/JWT
+- ミドルウェア / データストア: Apache Kafka, MySQL, Redis
+- フレームワーク / ライブラリ: React, React Native, Echo, FastAPI, ASP.NET Core
+- テスト / 負荷試験: Playwright, Jest, JMeter, NUnit
+- その他環境: Unity
 
 ---
 
@@ -71,4 +71,4 @@ Databricks, Apache Spark
 
 ## 個人開発
 AWS上にマイクロサービスを構築。[ms-infra](https://github.com/wakabaseisei/ms-infra) / [ms-tech-docs](https://github.com/wakabaseisei/ms-tech-docs)
-- **構成:** AWS (EKS, CloudFront, Aurora Serverless v2), Terraform, ArgoCD (GitOps), Go, Connect
+- 構成: AWS (EKS, CloudFront, Aurora Serverless v2), Terraform, ArgoCD (GitOps), Go, Connect
