@@ -63,7 +63,7 @@ Databricks, Apache Spark
 
 ### 暗号資産取引サービスの開発 (2024年9月 - 2025年9月)
 - 役割: バックエンド
-- 主な取り組み:Go, gRPC, Kubernetes (GKE), Cloud Spannerを用いたマイクロサービスの新規機能開発
+- 主な取り組み: Go, gRPC, Kubernetes (GKE), Cloud Spannerを用いたマイクロサービスの新規機能開発
 
 ### 大規模toB向けECサービスのモダナイゼーション (2023年10月 - 2024年8月)
 - 役割: バックエンド
